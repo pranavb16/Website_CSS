@@ -11,6 +11,23 @@ body{
     font-family: 'Merriweather', serif;
 }
 
+.navbar{
+    background-color: #EAF6F6;
+    display:flex;
+}
+
+.navbar a{
+    color:#11999E;
+    text-decoration: none;
+    text-align: center;
+    padding:10px 10px;
+}
+
+.navbar a:hover{
+    background-color: #11999E;
+    color:white;
+}
+
 h1{
     margin:50px auto 0 auto;
     font-family: 'Sacramento', cursive;
